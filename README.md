@@ -2,4 +2,8 @@
 
 This is a collection of prompts
 
-- [Emhudra exploit remediation](emhudra.md)
+## Security
+
+### eMudhra
+- [Repository Audit](security/emudhra/repo-audit.md) - Run this on your projects
+- [Local dev Audit](security/emudhra/local-dev-audit.md) - Run this on your local development environment
